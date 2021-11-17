@@ -1,0 +1,11 @@
+
+- HashMap是一个散列表，他存储的内容是键值对（key-value）映射；
+- HashMap实现了Map接口，根据键的HashCode值存储数据，具有很快的
+  访问速度，最多允许一条记录的键为null，不支持线程同步
+- HashMap是无序的，即不会记录插入的顺序；
+- HashMap继承于AbstractMap，实现了 Map、Cloneable、
+  java.io.Serializable 接口。
+
+
+
+

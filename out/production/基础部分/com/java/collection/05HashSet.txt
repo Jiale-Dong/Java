@@ -1,0 +1,12 @@
+
+HashSet类位于java.util中
+
+- HashSet基于HashMap来实现，是一个不允许有重复元素的集合；
+- HashSet允许有null值；
+- HashSet类实现了Set接口；
+- HashSet是无序的，即不会记录插入的顺序
+- HashSet不是线程安全的，如果多个线程尝试同时修改HashSet，
+  则最终结果是不确定的。您必须在多线程访问时显式同步对HashSet
+  的并发访问。
+
+
