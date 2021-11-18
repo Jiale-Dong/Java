@@ -1,0 +1,16 @@
+# Java #
+*.class
+*.log
+
+# Package Files #
+*.war
+*.ear
+
+# Maven ignore #
+target/
+build/
+out/
+
+# Intellij IDEA #
+.idea/
+*.iml
